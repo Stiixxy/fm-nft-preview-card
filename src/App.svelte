@@ -6,9 +6,9 @@
     class="m-4 grid max-w-xs gap-4 rounded-xl bg-darkblue-200 p-6 shadow-2xl"
   >
     <div class="relative overflow-hidden rounded-lg">
-      <img src="/image-equilibrium.jpg" alt="equilibrium" />
+      <img src="image-equilibrium.jpg" alt="equilibrium" />
       <a
-        href="/"
+        href="#equilibrium"
         class="absolute top-0 left-0 grid h-full w-full place-items-center bg-cyan bg-opacity-50 opacity-0 transition-opacity duration-500 hover:opacity-100"
       >
         <svg width="48" height="48" xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +24,7 @@
     </div>
 
     <h1 class="text-xl font-semibold text-white hover:text-cyan">
-      <a href="/">Equilibrium #3429</a>
+      <a href="#equilibrium">Equilibrium #3429</a>
     </h1>
 
     <p class="text-softblue">
@@ -56,7 +56,7 @@
         class="mr-3 h-8 rounded-full border border-white"
       />
       <span class="text-softblue"
-        >Creation of <a href="/" class="text-white hover:text-cyan"
+        >Creation of <a href="#profile" class="text-white hover:text-cyan"
           >Jules Wyvern</a
         ></span
       >
