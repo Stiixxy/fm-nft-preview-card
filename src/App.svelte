@@ -2,7 +2,7 @@
 </script>
 
 <div class="grid h-screen place-items-center">
-  <main class="grid max-w-xs gap-4 rounded-xl bg-darkblue-200 p-6">
+  <main class="m-4 grid max-w-xs gap-4 rounded-xl bg-darkblue-200 p-6">
     <img src="/image-equilibrium.jpg" alt="equilibrium" class="rounded-lg" />
 
     <h1 class="text-xl font-semibold text-white">Equilibrium #3429</h1>
@@ -28,6 +28,16 @@
           /></svg
         >3 days left
       </p>
+    </div>
+    <div class="flex items-center border-t border-darkblue-100 pt-4">
+      <img
+        src="image-avatar.png"
+        alt="avatar"
+        class="mr-3 h-8 rounded-full border border-white"
+      />
+      <span class="text-softblue"
+        >Creation of <span class="text-white">Jules Wyvern</span></span
+      >
     </div>
   </main>
 </div>
