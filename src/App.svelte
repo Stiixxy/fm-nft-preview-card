@@ -5,7 +5,9 @@
   <main class="m-4 grid max-w-xs gap-4 rounded-xl bg-darkblue-200 p-6">
     <img src="/image-equilibrium.jpg" alt="equilibrium" class="rounded-lg" />
 
-    <h1 class="text-xl font-semibold text-white">Equilibrium #3429</h1>
+    <h1 class="text-xl font-semibold text-white hover:text-cyan">
+      <a href="/">Equilibrium #3429</a>
+    </h1>
 
     <p class="text-softblue">
       Our Equilibrium collection promotes balance and calm
@@ -36,7 +38,9 @@
         class="mr-3 h-8 rounded-full border border-white"
       />
       <span class="text-softblue"
-        >Creation of <span class="text-white">Jules Wyvern</span></span
+        >Creation of <a href="/" class="text-white hover:text-cyan"
+          >Jules Wyvern</a
+        ></span
       >
     </div>
   </main>
