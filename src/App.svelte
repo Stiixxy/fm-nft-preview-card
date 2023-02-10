@@ -2,7 +2,9 @@
 </script>
 
 <div class="grid h-screen place-items-center">
-  <main class="m-4 grid max-w-xs gap-4 rounded-xl bg-darkblue-200 p-6">
+  <main
+    class="m-4 grid max-w-xs gap-4 rounded-xl bg-darkblue-200 p-6 shadow-2xl"
+  >
     <img src="/image-equilibrium.jpg" alt="equilibrium" class="rounded-lg" />
 
     <h1 class="text-xl font-semibold text-white hover:text-cyan">
