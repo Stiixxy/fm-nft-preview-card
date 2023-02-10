@@ -24,6 +24,6 @@ git commit -m 'deploy'
 # git push -f git@github.com:Stiixxy/Stiixxy.github.io.git main
 
 # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push -f git@github.com:Stiixxy/<template>.git main:gh-pages
+git push -f git@github.com:Stiixxy/fm-nft-preview-card.git main:gh-pages
 
 cd -
