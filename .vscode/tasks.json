@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "prettier: clean",
+      "command": "npx",
+      "args": ["prettier", "--write", "\"**/*.svelte\"", "\"**/*.ts\""],
+      "problemMatcher": []
+    },
+    {
+      "type": "shell",
+      "label": "eslint: lint",
+      "command": "npx",
+      "args": ["eslint", "\"**/*.svelte\"", "\"**/*.ts\""],
+      "problemMatcher": ["$eslint-stylish"]
+    }
+  ]
+}
